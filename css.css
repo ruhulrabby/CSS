@@ -1,0 +1,41 @@
+.one {
+  border: 5px solid black;
+  background-color: #e8a759;
+  width: 30%;
+  height: 33%;
+  border-radius: 20px;
+  margin: 50px 30px;
+  text-align: center;
+  padding: 15px;
+}
+
+.two {
+  border: 5px solid black;
+  border-radius: 20px;
+  background-color: #666138;
+  width: 30%;
+  height: 33%;
+  margin: 50px 30px;
+  text-align: center;
+  padding: 15px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #a007f9;
+  height: 100%;
+  align-items: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.p {
+  color: white;
+  padding-bottom: 30px;
+  font-weight: 700;
+}
+
+.photo{
+    margin: auto;
+}
